@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+
+<string-array name="state">
+    <item>Andra Pradesh</item>
+    <item>Arunachal Pradesh</item>
+    <item>Assam</item>
+    <item>Bihar</item>
+    <item>Chhattisgarh</item>
+    <item>Goa</item>
+    <item>Gujarat</item>
+    <item>Haryana</item>
+</string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
